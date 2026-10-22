@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="A portfolio by Matthew Macalintal" width="100%">
+  <a href="https://hitori-kaizen.github.io/"><img src="assets/banner.png" alt="A portfolio by Matthew Macalintal" width="100%"></a>
 </p>
 
 <p align="center">
