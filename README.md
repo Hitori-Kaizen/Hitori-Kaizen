@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/banner.png" alt="A portfolio by Matthew Macalintal" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/james-macalintal"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:macalintaljames26@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a></p>
+
 # Hi, I'm James Matthew Macalintal 👋
 
 **Systems & Networks Technician** · ASIR student (Grado Superior, 2nd year) · Madrid, Spain
@@ -21,11 +29,6 @@ I build and fix things — networks, systems, web pages and games. I learn fast,
 | **Game dev** | Luau scripting (Roblox Studio), 3D modeling in Blender |
 | **Hardware** | PC assembly, maintenance and repair |
 | **AI** | Daily use of AI assistants and automation for learning and productivity |
-
-### 📂 Projects
-<!-- Replace these with your real projects and link each one to its repo -->
-- **[Project name](https://github.com/Hitori-Kaizen/REPO)** — one line on what it does and what you used to build it.
-- **[Project name](https://github.com/Hitori-Kaizen/REPO)** — one line on what it does and what you used to build it.
 
 ### 🎓 Education
 - **Grado Superior — ASIR** · DIGITECH FP · 2025 – present
