@@ -25,7 +25,7 @@ I build and fix things — networks, systems, web pages and games. I learn fast,
 |---|---|
 | **Networking** | Router & switch configuration, network design, Cisco Packet Tracer |
 | **Systems** | Linux, Windows 10/11, Windows Server 2019 — install, configure, administer |
-| **Web** | HTML, CSS, JavaScript |
+| **Web** | HTML, CSS, JavaScript, Python |
 | **Game dev** | Luau scripting (Roblox Studio), 3D modeling in Blender |
 | **Hardware** | PC assembly, maintenance and repair |
 | **AI** | Daily use of AI assistants and automation for learning and productivity |
